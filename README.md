@@ -1,2 +1,2 @@
 # u-boot_firmware
-Chip based firmware source code.
+AML u-boot firmware source code for Odroid C2.
